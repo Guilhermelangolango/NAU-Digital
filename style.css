@@ -1,12 +1,12 @@
 *{
-    margin: 0px;
+   
     padding: 0px;
 
 }
 body{
-display: flex;
-justify-content: center;
-align-items: center;
+    margin: auto;
+    width: 900px;
+    height: 900px;
 
 }
 
@@ -37,4 +37,16 @@ align-items: center;
 #conteiner-rodape{
     width: 900px;
     background-color: rgb(72, 6, 255);
+}
+.logomarca{
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    margin: 10px;
+}
+.itens{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(234, 0, 255);
+    margin: 10px;
 }
