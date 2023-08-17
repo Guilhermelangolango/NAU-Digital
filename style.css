@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+#menu{
+    background-color: rgb(0, 238, 255);
+    width: 900px;
+}
+#banner{
+    width: 900px;
+    height: 500px;
+    background-color: rgb(145, 255, 0);
+}
+#conteiner-dois{
+    width: 900px;
+    height: 500px;
+    background-color: rgb(6, 93, 255);
+}
+#conteiner-tres{
+    width: 900px;
+    height: 500px;
+    background-color: rgb(255, 6, 6);
+}
+#conteiner-quatro{
+    width: 900px;
+    height: 500px;
+    background-color: rgb(255, 6, 201);
+}
+#conteiner-rodape{
+    width: 900px;
+    background-color: rgb(72, 6, 255);
+}
